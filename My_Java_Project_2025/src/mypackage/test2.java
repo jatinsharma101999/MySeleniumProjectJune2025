@@ -12,6 +12,7 @@ public class test2 {
         // Print the result
         System.out.println("The sum of " + number1 + " and " + number2 + " is: " + sum);
         System.out.println("Number1 and number2 has been added");
+        System.out.println("The Additon program has successfully been implemented");
     }
 
 	}
