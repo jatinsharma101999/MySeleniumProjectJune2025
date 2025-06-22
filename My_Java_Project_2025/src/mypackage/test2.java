@@ -14,7 +14,8 @@ public class test2 {
         System.out.println("Number1 and number2 has been added");
         System.out.println("The Additon program has successfully been implemented");
         System.out.println("Hello New Branch");
-        System.out.println("Hello New Branch");
+        System.out.println("Hello New Branch changes");
+        
     }
 
 	}
